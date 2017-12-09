@@ -1,4 +1,4 @@
-# Laravel OPD
+# laravel OPD
 
 [![Join the chat at https://gitter.im/laravel-opd/Lobby](https://badges.gitter.im/laravel-opd/Lobby.svg)](https://gitter.im/laravel-opd/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/laravel-opd/badges/quality-score.png?format=flat)](https://scrutinizer-ci.com/g/bantenprov/laravel-opd)
@@ -17,7 +17,7 @@ $ composer create-project --prefer-dist laravel/laravel project-name "5.4.*"
 ## Install package :
 
 ```bash
-$ composer require bantenprov/laravel-opd "1.0.0"
+$ composer require bantenprov/laravel-opd "1.1.0"
 ```
 
 ## Edit config/app.php
