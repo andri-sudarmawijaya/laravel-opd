@@ -95,13 +95,9 @@ class LaravelOpdController extends Controller
                 'kunker_sinjab' => '',
                 'name' => $request->c_name,
                 'levelunker' => $request->c_levelunker,
-<<<<<<< HEAD
                 'njab' => $request->c_njab,
                 'npej' => $request->c_npej
             ]);        
-=======
-            ]);
->>>>>>> add sinjab
 
         return redirect()->back();
     }
